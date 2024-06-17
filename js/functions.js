@@ -69,7 +69,7 @@ function arrayRandDiversi() {
     const arrayNumRand = [];
 
     // generare 16 numeri random
-    while(arrayNumRand.length < 16) {
+    while(arrayNumRand.length < 5) {
         
         let nRand = randomNumber(1, 100)
 
